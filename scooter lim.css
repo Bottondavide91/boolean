@@ -1,0 +1,22 @@
+body{background-image: url("background.jpg");background-repeat: no-repeat;background-size: cover;}
+.sfondoalpha{background-color: rgba(10,10,10,0.60);
+  height: 12%;width: 60%;margin: auto;border-radius: 25px}
+
+
+.centerlogo{display: block;margin-left: auto;margin-right: auto;width: 50% ;
+  height: 20%;width: 20%;margin-top: 3%;padding-top: 10%}
+h1{text-align: center;font-size: 30px; color: rgb(0,230,0);font-family: sans-serif;}
+
+.Inputsection{background-color: rgb(0,230,0);display: flex;;justify-content: center;
+  align-items: center;box-sizing: content-box; padding: 10px;margin-right: 10%;margin-left: 10%}
+
+.white{color: white; margin-left: 10%;margin right: 10%;padding-top: 1%;font-family: sans-serif;}
+
+
+.gino22battery{background-color: rgb(246,162,067);border-radius: 4px;margin-right: 68%;text-indent: -9999px;padding-bottom: 1%}
+
+.mike24battery{background-color: rgb(04,199,082);border-radius: 4px;margin-right: 44%;text-indent: -9999px;padding-bottom: 1%}
+
+.fede154battery{background-color: rgb(176,65,65);border-radius: 4px;margin-right: 86%;text-indent: -9999px;padding-bottom: 1%}
+
+.emptyboxextending{text-indent: -9999px;padding-bottom: 10%}
